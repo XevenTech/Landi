@@ -9,7 +9,7 @@ Landi is a Responsive Agency Website Landing Page Template Using HTML CSS & JS
 
 ## Demo
 
-![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Landi/demo.png?raw=true "Desktop Demo")
+![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/landi/demo.png?raw=true "Desktop Demo")
 
 ## Prerequisites
 
@@ -35,7 +35,7 @@ git clone https://github.com/xeventech/Landi.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/Landi/thumbnail.png?raw=true "Play")](https://youtu.be/b-s9tBGKKCU)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/landi/thumbnail.png?raw=true "Play")](https://youtu.be/b-s9tBGKKCU)
 
 
 ## Thank you for reading, here's a cat:
